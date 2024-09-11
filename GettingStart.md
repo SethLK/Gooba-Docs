@@ -35,3 +35,5 @@ To get the most out of this documentation, it’s recommended that you have a ba
 -   **Object-Oriented Programming (OOP)**: Familiarity with creating classes, methods, and objects will help you manipulate elements and build components in Gooba.
 
 If you're new to Python or OOP, feel free to explore introductory Python resources before diving into Gooba.
+
+[Installation](Installation.md)

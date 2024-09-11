@@ -83,3 +83,5 @@ Consider the following Gooba code:
 	    font-size: 18px;
 	}
 
+[QuickStart](QuickStart.md)
+[Lets Get Hand On](LetsGetHandOn.md)

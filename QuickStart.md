@@ -52,3 +52,6 @@ This script starts the development server and uses `watchdog` to monitor file ch
  `server.py`
 
 A simple HTTP server script that serves the generated files from the `output` directory. This script handles requests and provides the necessary files to the browser.
+
+[Installation](Installation.md)
+[How Gooba Work](HowGoobaInterpretsCode.md)

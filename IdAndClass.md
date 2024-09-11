@@ -80,3 +80,6 @@ In this example:
 -   Styles are applied to both elements using their respective `id` and `className`.
 
 ----------
+
+[Lets Get Hand On](LetsGetHandOn.md)
+[Styling with Gooba](StylingWithGooba.md)

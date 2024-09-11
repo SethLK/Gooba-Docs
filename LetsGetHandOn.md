@@ -295,3 +295,7 @@ Now that you know how to create basic elements, let’s combine headings, paragr
 
 	# Build the web page
 	doc.build()
+
+
+[How Gooba Work](HowGoobaInterpretsCode.md)
+[Id and Classes](IdAndClass.md)

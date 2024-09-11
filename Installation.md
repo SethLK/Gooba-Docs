@@ -26,3 +26,6 @@ Terminal
    
     Enter the project name: project_name
     Project project_name generated successfully!
+
+[Getting Start](GettingStart.md)
+[QuickStart](QuickStart.md)
