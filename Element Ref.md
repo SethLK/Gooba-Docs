@@ -69,3 +69,6 @@ Gooba supports heading elements that define different sections of your UI. They 
 | CreateImage() | Embeds an image into the page. This class allows you to specify the source of the image and other attributes such as `alt` text. Use `CreateImage()` to include visual content in your UI. Example usage: `CreateImage("path/to/image.jpg", alt="A descriptive text")` inserts an image with a specified source and alternative text. |
 | CreateLink() | Creates a hyperlink to another page or resource. Use `CreateLink()` to define anchor elements that allow users to navigate to different parts of your application or external sites. You can specify the URL and link text. Example usage: `CreateLink("https://example.com", "Visit Example")` creates a link to "[https://example.com](https://example.com)" with the text "Visit Example". |
 | CreateForm() | Constructs a form element that can contain input fields, buttons, and other form controls. This class is used to create interactive forms for user input and data submission. You can define form actions, method types, and include various form elements like text fields, checkboxes, and submit buttons. Example usage: `CreateForm(action="/submit")` creates a form with a specified action URL. |
+
+
+[Style Properties](StyleProperties.md) 
