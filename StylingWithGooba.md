@@ -80,4 +80,4 @@ Example:
 This creates a file named `styles.css` and applies it to the document. All styles inside this file will be linked to the page as external styles.
 
 [Id and Classes](IdAndClass.md)  
-[Refrence](Element%20Ref.md) 
+[Refrence](ElementRef.md) 
